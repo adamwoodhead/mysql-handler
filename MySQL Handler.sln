@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySQL Handler", "MySQL Handler\MySQL Handler.csproj", "{1D2023B9-B69F-4EC0-B196-8A48D31F407A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing Console App", "Testing Console App\Testing Console App.csproj", "{D06E40DA-8066-4ABC-BC87-C3359FC17312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D2023B9-B69F-4EC0-B196-8A48D31F407A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2023B9-B69F-4EC0-B196-8A48D31F407A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2023B9-B69F-4EC0-B196-8A48D31F407A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2023B9-B69F-4EC0-B196-8A48D31F407A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06E40DA-8066-4ABC-BC87-C3359FC17312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06E40DA-8066-4ABC-BC87-C3359FC17312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06E40DA-8066-4ABC-BC87-C3359FC17312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06E40DA-8066-4ABC-BC87-C3359FC17312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E9F588A-550D-4640-A744-D4D9C808F183}
+	EndGlobalSection
+EndGlobal
